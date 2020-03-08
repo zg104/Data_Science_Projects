@@ -6,7 +6,7 @@ For this capstone project we will be analyzing some 911 call data from Kaggle. T
 
 -lng: String variable, Longitude
 
-desc: String variable, Description of the Emergency Call
+-- desc: String variable, Description of the Emergency Call
 
 zip: String variable, Zipcode
 title: String variable, Title
